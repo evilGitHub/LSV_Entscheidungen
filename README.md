@@ -1,2 +1,2 @@
 # LSV_Entscheidungen
-Regulierter demokratischer Entscheidungs-Prozess im LSV
+Regulierter demokratischer Entscheidungsprozess im LSV
